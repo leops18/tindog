@@ -1,2 +1,2 @@
-# tindog
-Meet new and interesting dogs nearby
+TinDog Starting Files
+https://leops18.github.io/tindog/
